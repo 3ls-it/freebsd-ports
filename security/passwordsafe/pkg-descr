@@ -1,0 +1,10 @@
+Password Safe is a password manager. It stores your passwords in an
+encrypted file, allowing you to remember only one password "master
+password", instead of all the username/password combinations that you use.
+
+Password Safe is a cross-platform password manager compatible with the
+Password Safe v3 database format. This port packages the wxWidgets GUI
+application, as well as a command-line utility `pwsafe-cli`.
+
+Note: the GUI executable is installed as `pwsafe-gui` to avoid conflicting
+with the existing pwsafe and pwsafe-nox11 command-line ports.
